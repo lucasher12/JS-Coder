@@ -1,0 +1,17 @@
+.converterbox{
+    width: 80ws;
+}
+
+h1{
+    padding-top: 7rem;
+    padding-bottom: 4rem;
+}
+
+h2{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.amountbox{
+    padding-bottom: 2rem;
+}
